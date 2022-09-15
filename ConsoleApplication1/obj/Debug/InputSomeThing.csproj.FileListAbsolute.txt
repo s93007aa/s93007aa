@@ -1,0 +1,9 @@
+c:\Users\jumbolin\documents\visual studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\jumbolin\documents\visual studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\jumbolin\documents\visual studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\jumbolin\documents\visual studio 2015\Projects\Test\ConsoleApplication1\obj\Debug\InputSomeThing.csprojResolveAssemblyReference.cache
+c:\Users\jumbolin\documents\visual studio 2015\Projects\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\jumbolin\documents\visual studio 2015\Projects\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\RSI.Data.dll
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\ConsoleApplication1\bin\Debug\RSI.Data.pdb

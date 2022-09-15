@@ -1,0 +1,6 @@
+c:\users\jumbolin\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\jumbolin\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\jumbolin\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\jumbolin\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\jumbolin\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\jumbolin\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb

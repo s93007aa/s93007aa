@@ -1,0 +1,8 @@
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Release\RSI.Data.dll.config
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Release\RSI.Data.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Release\RSI.Data.pdb
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Release\ChineseConverter.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Release\Oracle.ManagedDataAccess.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\obj\Release\DataAcess.csprojResolveAssemblyReference.cache
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\obj\Release\RSI.Data.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\obj\Release\RSI.Data.pdb

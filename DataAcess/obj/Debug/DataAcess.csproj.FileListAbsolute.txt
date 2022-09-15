@@ -1,0 +1,31 @@
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\bin\Debug\RSI.Data.dll.config
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\bin\Debug\RSI.Data.dll
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\bin\Debug\RSI.Data.pdb
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\bin\Debug\ChineseConverter.dll
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\obj\Debug\RSI.Data.dll
+D:\workspace\SVN\RDnew\RD_Sample\DataAcess\obj\Debug\RSI.Data.pdb
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Debug\RSI.Data.dll.config
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Debug\RSI.Data.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Debug\RSI.Data.pdb
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Debug\ChineseConverter.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\obj\Debug\RSI.Data.dll
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\obj\Debug\RSI.Data.pdb
+D:\workspace\SVN\RD_new\RD_Sample\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+D:\workspace\SVN\RD\RD_Sample\DataAcess\bin\Debug\RSI.Data.dll.config
+D:\workspace\SVN\RD\RD_Sample\DataAcess\bin\Debug\RSI.Data.dll
+D:\workspace\SVN\RD\RD_Sample\DataAcess\bin\Debug\RSI.Data.pdb
+D:\workspace\SVN\RD\RD_Sample\DataAcess\bin\Debug\ChineseConverter.dll
+D:\workspace\SVN\RD\RD_Sample\DataAcess\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\workspace\SVN\RD\RD_Sample\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+D:\workspace\SVN\RD\RD_Sample\DataAcess\obj\Debug\RSI.Data.dll
+D:\workspace\SVN\RD\RD_Sample\DataAcess\obj\Debug\RSI.Data.pdb
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\bin\Debug\RSI.Data.dll.config
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\bin\Debug\RSI.Data.dll
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\bin\Debug\RSI.Data.pdb
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\bin\Debug\ChineseConverter.dll
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\obj\Debug\RSI.Data.dll
+C:\Users\jumbolin\Documents\Visual Studio 2015\Projects\Test\DataAcess\obj\Debug\RSI.Data.pdb
