@@ -22,7 +22,7 @@ namespace InputSomeThing
             //parsePDF();
             //parsePDF_UA();
             //readPDFtxt();
-                        
+
             Console.WriteLine("DONE");
             Console.ReadLine();
         }
@@ -385,7 +385,7 @@ values
                                     //{
 
                                     //}
-                                    cellText += seg.Text + " ";
+                                    cellText += seg.Text;
                                     //cellText += (isHeader ? (seg.Text.EndsWith(":") ? "&" : "") : "") + seg.Text + " ";
                                     //if (getSamplStep) { listSampleStep.Add(seg.Text); getSamplStep = false; }
                                     //else if (getSamplSize) { listSampleSize.Add(seg.Text); getSamplSize = false; }
@@ -664,7 +664,7 @@ values
                                             B2 = iLength >= 6 ? arrParts[5].Trim() : "",
                                             B3 = iLength >= 7 ? arrParts[6].Trim() : "",
                                             B4 = iLength >= 8 ? arrParts[7].Trim() : "",
-                                            B5 = iLength >= 8 ? arrParts[8].Trim() : "",
+                                            B5 = iLength >= 8 ? arrParts[8].Trim() : "",//幹這很白痴欸
                                             B6 = iLength >= 10 ? arrParts[9].Trim() : "",
                                             B7 = iLength >= 11 ? arrParts[10].Trim() : "",
                                             B8 = iLength >= 12 ? arrParts[11].Trim() : "",

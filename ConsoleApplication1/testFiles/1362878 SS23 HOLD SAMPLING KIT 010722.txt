@@ -1,0 +1,154 @@
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row: Tech Pack Comments:CN 1.07.2022“Releasing TP for SMS ordering, production TP to follow.” %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row: Calendar %% MFO %% Gear Line %% N/A %% End Use %% Train %% 
+@Row: Theme %%  %% Size Scale %% YXS-YXL(4) %% Sourcing Manager %%  %% 
+@Row: Graphic Reference %%  %% Graphic Developer %%  %% 
+@Row: Pattern Block %%  %% Testing Requirement %% Home Laundry per Care %% Regional Developer %%  %% 
+@Row:  %% CW#COLORWAY NAME004Black / /   369Neptune / /   566Octane / /    %% 
+@Row: Black / /   Neptune / /   Octane / /    %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row: Colorway #: 004                                      Season: SS23Colorway Name: Black / /       %% Colorway #: 369                                      Season: SS23Colorway Name: Neptune / /       %% Colorway #: 566                                      Season: SS23Colorway Name: Octane / /       %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row:  %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row:  %% (SET A: CC1-3 of 3) %% 
+@Row: CONTENT %%  %%  %%  %%  %%  %%  %% 
+@Row: Fabric  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: KNT-223272 / Digital Sublimation - Fitness-Basic CircularKnit-Single Jersey-Stretch ~ AM / JOY TEXTILES- TW / HAB077CS(Z)DG / Pre-Spec Accepted /229.0g/90Poly;10Elastane/Knit Circular/Jersey //60.0"/Tech.Face %% A %% All unless otherwise noted %% 0.097 %% DG Mod Gray011 Steel 035Pitch Gray012 Jet Gray010 Black001-P7066 %% DG Sea Mist936 Neptune369 Cerulean452 Batik366-P7069 %% DG Octane566 Vivid Lilac560 MegaMagenta 913Purple Switch570-P7063 %% 
+@Row: KNT-210507 / Fitness-Basic Circular Knit-Single Jersey-Stretch ~ AM / JOY TEXTILES - TW / HAB077CS(Z) /Development Complete / 229.0g/90Poly;10Elastane//Jersey//60.0"/Tech. Face %% B %% LINER - SOLID %% 0.085 %% Black %% Cerulean %% Octane %% 
+@Row: KNT-210507 / Fitness-Basic Circular Knit-Single Jersey-Stretch ~ AM / JOY TEXTILES - TW / HAB077CS(Z) /Development Complete / 229.0g/90Poly;10Elastane//Jersey//60.0"/Tech. Face %% D %% BINDING %% 0.075 %% Black %% Cerulean %% Octane %% 
+@Row: Trim  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: El-100874 / Core - Elastic - Bra - Multi Size - Plain -Nylon/Elastane - 1 Color Position / New Horizon / T7400 /Approved / Trim Size: 6mm / UOM: yd %%  %% Armhole/neckline %% 3.9 %% Black %% White %% White %% 
+@Row: El-102644 / Core - Elastic - Stretch - Wordmark and symboljcqd - Girls - 2 color position (refer to artwork) / Sun Tak /603352L-Size Callout / Approved / Trim Size: 1.25inch /UOM: yd %%  %% Hem %% 0.6 %% Black 001-Jet Gray 010 %% Neptune-Cerulean %% Octane566-PurpleSwitch 570 %% 
+@Row: El-102327 / Core - Elastic - Encased - Medium Weight - MultiSize - Vendor Color / PAIHO / P601 / Approved / Trim Size:1.125 inch / UOM: yd %%  %% encased on CF bottom band %% 0.25 %% Paiho Black %% Paiho White %% Paiho White %% 
+@Row: Thread  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: TT-100106 / Poly Wrap/Polycore: Epic / Perma Core / Nukor /COATS or A&E or GUNZETAL / / Approved / Trim Size: Tex24 / UOM: %%  %% Needle for body seaming for all unlessotherwise noted. Bottom- for topstitchingunless otherwise noted %% 1.0 %% Black %% Cerulean %% Octane %% 
+@Row: TT-100107 / Continuous Filament Texturized Polyester:Gramax Wildcat Plus / Flexo (Note: Tex Size Tex 21 and Tex24 are interchangeable) / COATS or A&E or GUNZETAL / /Approved / Trim Size: Tex 21/24 / UOM: kg %%  %% Top cover for body seaming for all unlessotherwise noted %% 1.0 %% Black %% Cerulean %% Octane %% 
+@Row: 004Black / / %% 369Neptune / / %% 566Octane / / %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row:  %% (SET A: CC1-3 of 3) %% 
+@Row: CONTENT %%  %%  %%  %%  %%  %%  %% 
+@Row: Thread  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: TT-100107 / Continuous Filament Texturized Polyester:Gramax Wildcat Plus / Flexo (Note: Tex Size Tex 21 and Tex24 are interchangeable) / COATS or A&E or GUNZETAL / /Approved / Trim Size: Tex 21/24 / UOM: kg %%  %% Bottom for body seaming for all unlessotherwise noted %% 0.0 %% Black %% Cerulean %% Octane %% 
+@Row: TT-100106 / Poly Wrap/Polycore: Epic / Perma Core / Nukor /COATS or A&E or GUNZETAL / / Approved / Trim Size: Tex24 / UOM: %%  %% Needle- 1N to attach CB and side COO labels %% 0.0 %% Black %% Cerulean %% Octane %% 
+@Row: TT-100106 / Poly Wrap/Polycore: Epic / Perma Core / Nukor /COATS or A&E or GUNZETAL / / Approved / Trim Size: Tex24 / UOM: %%  %% Needle for binding topstitching, bartacks %% 0.0 %% Black %% Cerulean %% Octane %% 
+@Row: TT-100107 / Continuous Filament Texturized Polyester:Gramax Wildcat Plus / Flexo (Note: Tex Size Tex 21 and Tex24 are interchangeable) / COATS or A&E or GUNZETAL / /Approved / Trim Size: Tex 21/24 / UOM: kg %%  %% Bottom for binding topstitch %% 0.0 %% Black %% Cerulean %% Octane %% 
+@Row: TT-100106 / Poly Wrap/Polycore: Epic / Perma Core / Nukor /COATS or A&E or GUNZETAL / / Approved / Trim Size: Tex24 / UOM: %%  %% Needle for bottom band stitching %% 0.0 %% Black %% Cerulean %% Octane %% 
+@Row: TT-100107 / Continuous Filament Texturized Polyester:Gramax Wildcat Plus / Flexo (Note: Tex Size Tex 21 and Tex24 are interchangeable) / COATS or A&E or GUNZETAL / /Approved / Trim Size: Tex 21/24 / UOM: kg %%  %% Bottom for bottom band stitching %% 0.0 %% Black %% Cerulean %% Octane %% 
+@Row: Embellishment  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: HS-107297 / NO DWR OR TREATED / COATED FABRICS -Core - Heat Transfer - Flat Ink - Agility - UA Symbol - varioussize - 1 color position LATAM USES FINOTEX HS-107430 /AVERY DENNISON / / Approved / Trim Size: 1.5 inch (22 x38mm) / UOM: ea %%  %% Wearer's bottom left hem %% 1.0 %% Jet Gray %% Neptune %% Purple Switch %% 
+@Row: Label  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: COO-906677 / Skinny Printed Tear Away Label / AVERYDENNISON / / Approved / UOM: ea %%  %% Bra with Skinny Tear Away Label- See manual %% 1.0 %% As Artwork %% As Artwork %% As Artwork %% 
+@Row: 004Black / / %% 369Neptune / / %% 566Octane / / %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row:  %% (SET A: CC1-3 of 3) %% 
+@Row: CONTENT %%  %%  %%  %%  %%  %%  %% 
+@Row: Label  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: COO-905795 / Global COO tear away (Includes: size, COO,importers, and care instructions) For Kits 6, 7, 9, 11 & 16 useCOO-907007 Starting SS19 please use the following carelabels: For Kits 3, 5 and all AR/VMI styles use COO-905795For Kits 1, 2, 4, 12, 13, 14, 15 use COO-908015 For Kits6, 7, 9, 11 & 16 use COO-907007 / AVERY DENNISON / /Approved / UOM: ea %%  %% Attach COO label for girl's bra at center ofwearer's left side. Care 6 %% 1.0 %% As Artwork %% As Artwork %% As Artwork %% 
+@Row: VID-904457 / 16mm x 32mm VID with Track and Trace-NON TEAR AWAY (youth, adult protective, on-field/licenseduniforms, and IOF authentic kits) / AVERY DENNISON / /Approved / UOM: ea %%  %% Attach VID label for girl's bra at center wearer'sright side. %% 1.0 %% As Artwork %% As Artwork %% As Artwork %% 
+@Row: Hangtag/Packaging  %% Loc %% Usage %% Qty %% 004 %% 369 %% 566 %% 
+@Row: HT-908835 / Apparel - Good HT - Fitted - do not use withinsert / AVERY DENNISON or TRAY / / Approved / UOM: ea %%  %% Main Hangtag; BRA 3 %% 1.0 %% As Artwork %% As Artwork %% As Artwork %% 
+@Row: St-908032 / APPAREL UPC Sticker with RFID (2.0697 in x1.4 in) / CONTRACTOR / / Approved / UOM: ea %%  %% back of Main Hangtag %% 1.0 %% As Artwork %% As Artwork %% As Artwork %% 
+@Row: HT-TR0931 / 3 inch Plastic Barb / CONTRACTOR / TR0931 /Development Complete / UOM: ea %%  %% Attach HT %% 1.0 %% Clear %% Clear %% Clear %% 
+@Row: BG-CV0007 / Poly Bag - Fit To Folded Garment / UniversalPackaging, Inc. / TR0001 / Development Complete / UOM: ea %%  %% Packaging %% 1.0 %% Clear %% Clear %% Clear %% 
+@Row: St-908271 / Poly bag UPC sticker (Kit 1, 2, 3, 4, 8, 12) Dualsourced at Avery & Fineline. Factories should order at thesame location they are ordering RFID UPC labels from. /Avery Dennison or Fineline / / Approved / UOM: ea %%  %% On poly bag %% 1.0 %% As Artwork %% As Artwork %% As Artwork %% 
+@Row: 004Black / / %% 369Neptune / / %% 566Octane / / %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row: Code %% Description %% Tol(-) %% Tol(+) %% YXS %% YSM %% YMD %% YLG %% YXL %%  %%  %%  %%  %%  %%  %% 
+@Row: V4-Bra-Cami-K1-R %% 
+@Row: BW010 %% Chest Width at Armhole (Cami/Tank/Bra) %% 1/2 %% 1/2 %% 10 %% 10 1/2 %% 11 3/4 %% 13 1/4 %% 14 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP065 %% Front Length from Strap Join - Through Apex (NoUnderwire - Unmolded) %% 1/4 %% 1/4 %% 7 1/2 %% 7 3/4 %% 8 1/4 %% 9 %% 9 1/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP070 %% CF Length %% 1/4 %% 1/4 %% 4 5/8 %% 4 7/8 %% 5 1/4 %% 5 3/4 %% 5 3/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP075 %% Back Length from Strap Join %% 1/4 %% 1/4 %% 5 1/2 %% 5 5/8 %% 6 %% 6 5/8 %% 6 3/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP080 %% Sideseam Length %% 1/4 %% 1/4 %% 2 3/4 %% 3 1/8 %% 3 3/4 %% 4 %% 4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP090 %% Bottom Opening - Relaxed %% 1/2 %% 1/2 %% 9 1/2 %% 10 1/8 %% 11 3/8 %% 12 7/8 %% 13 5/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP095 %% Bottom Opening - Minimum Stretch %% 0 %% 0 %% 13 1/8 %% 13 3/4 %% 15 %% 16 1/2 %% 17 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP145 %% Front Strap Join to Strap Join %% 1/4 %% 1/4 %% 4 1/4 %% 4 1/2 %% 5 %% 5 3/4 %% 6 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP150 %% Front Neck Drop From Strap Join - Vertical %% 1/8 %% 1/8 %% 2 7/8 %% 2 7/8 %% 3 %% 3 1/8 %% 3 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP185 %% Front Armhole from Strap Join to Side Seam -Curved -R %% 1/8 %% 1/8 %% 5 7/8 %% 5 7/8 %% 6 %% 6 5/8 %% 7 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP190 %% Back Armhole from Strap Join to Side Seam -Curved -R %% 1/8 %% 1/8 %% 6 1/8 %% 6 1/4 %% 7 %% 8 1/4 %% 8 3/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP195 %% Bottom Band Height %% 1/8 %% 1/8 %% 1 1/4 %% 1 1/4 %% 1 1/4 %% 1 1/4 %% 1 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP200 %% Keyhole Height %% 1/8 %% 1/8 %% 1 %% 1 %% 1 %% 1 %% 1 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP205 %% Keyhole Width %% 1/8 %% 1/8 %% 6 %% 6 %% 6 %% 6 %% 6 %%  %%  %%  %%  %%  %%  %% 
+@Row: ST005 %% Strap Width %% 1/8 %% 1/8 %% 1/4 %% 1/4 %% 1/4 %% 1/4 %% 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: ST020 %% Total Strap Length from Join to Join - No Adjuster-Inner Strap %% 1/4 %% 1/4 %% 6 3/8 %% 6 5/8 %% 7 %% 7 3/8 %% 7 5/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: ST020 %% Total Strap Length from Join to Join - No Adjuster-Outer Strap %% 1/4 %% 1/4 %% 6 1/8 %% 6 3/8 %% 6 3/4 %% 7 1/8 %% 7 3/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: EM235 %% UA Logo - Vertical from Bottom to Center - Front %% 1/8 %% 1/8 %% 2 %% 2 %% 2 %% 2 %% 2 %%  %%  %%  %%  %%  %%  %% 
+@Row: EM250 %% UA Logo - Horizontal from Sideseam to Center(Tops) - Front -R %% 1/8 %% 1/8 %% 1 3/4 %% 1 3/8 %% 1 1/2 %% 1 3/4 %% 1 7/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: Status: Prototype1362878Season: SS23Lifecycle: CarryoverDFO Armour HeatGear Prt BraRegional Fit: US %% 
+@Row: Gender %% Girls %% Fabric ID # %% KNT-223272 %% 
+@Row: Seasonal Plan %% Bras - MFO %% Fabric Description %% Digital Sublimation - Fitness-Basic Circular Knit-Single Jersey-Stret %% 
+@Row: Construction Group %% Tops - Bras %% Vendor %% RSI GLOBAL LIMITED TAIWAN BRANCH %% 
+@Row: Product Family %% Other %% Factory/Country %% Green Meadow Development (Cambodia) Co., Ltd. / KH %% 
+@Row: Fit Type / Reference %% Fitted / 1341829 with new grade %% Sample Status %% Fit Approved, Hold Sampling %% 
+@Row: Development %% UA Managed %% Tech Designer %% Ng, Chesko %% 
+@Row: Code %% Description %% Tol(-) %% Tol(+) %% YXS %% YSM %% YMD %% YLG %% YXL %%  %%  %%  %%  %%  %%  %% 
+@Row: V4-Bra-Cami-K1-R %% 
+@Row: BW010 %% Chest Width at Armhole (Cami/Tank/Bra) %% 1/2 %% 1/2 %% -1/2 %% -1 1/4 %% 11 3/4 %% 1 1/2 %% 3/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP065 %% Front Length from Strap Join - Through Apex (NoUnderwire - Unmolded) %% 1/4 %% 1/4 %% -1/4 %% -1/2 %% 8 1/4 %% 3/4 %% 1/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP070 %% CF Length %% 1/4 %% 1/4 %% -1/4 %% -3/8 %% 5 1/4 %% 1/2 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP075 %% Back Length from Strap Join %% 1/4 %% 1/4 %% -1/8 %% -3/8 %% 6 %% 5/8 %% 1/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP080 %% Sideseam Length %% 1/4 %% 1/4 %% -3/8 %% -5/8 %% 3 3/4 %% 1/4 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP090 %% Bottom Opening - Relaxed %% 1/2 %% 1/2 %% -5/8 %% -1 1/4 %% 11 3/8 %% 1 1/2 %% 3/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP095 %% Bottom Opening - Minimum Stretch %% 0 %% 0 %% -5/8 %% -1 1/4 %% 15 %% 1 1/2 %% 3/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP145 %% Front Strap Join to Strap Join %% 1/4 %% 1/4 %% -1/4 %% -1/2 %% 5 %% 3/4 %% 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP150 %% Front Neck Drop From Strap Join - Vertical %% 1/8 %% 1/8 %% 0 %% -1/8 %% 3 %% 1/8 %% 1/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP185 %% Front Armhole from Strap Join to Side Seam -Curved -R %% 1/8 %% 1/8 %% 0 %% -1/8 %% 6 %% 5/8 %% 3/8 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP190 %% Back Armhole from Strap Join to Side Seam -Curved -R %% 1/8 %% 1/8 %% -1/8 %% -3/4 %% 7 %% 1 1/4 %% 1/2 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP195 %% Bottom Band Height %% 1/8 %% 1/8 %% 0 %% 0 %% 1 1/4 %% 0 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP200 %% Keyhole Height %% 1/8 %% 1/8 %% 0 %% 0 %% 1 %% 0 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: CP205 %% Keyhole Width %% 1/8 %% 1/8 %% 0 %% 0 %% 6 %% 0 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: ST005 %% Strap Width %% 1/8 %% 1/8 %% 0 %% 0 %% 1/4 %% 0 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: ST020 %% Total Strap Length from Join to Join - No Adjuster-Inner Strap %% 1/4 %% 1/4 %% -1/4 %% -3/8 %% 7 %% 3/8 %% 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: ST020 %% Total Strap Length from Join to Join - No Adjuster-Outer Strap %% 1/4 %% 1/4 %% -1/4 %% -3/8 %% 6 3/4 %% 3/8 %% 1/4 %%  %%  %%  %%  %%  %%  %% 
+@Row: EM235 %% UA Logo - Vertical from Bottom to Center - Front %% 1/8 %% 1/8 %% 0 %% 0 %% 2 %% 0 %% 0 %%  %%  %%  %%  %%  %%  %% 
+@Row: EM250 %% UA Logo - Horizontal from Sideseam to Center(Tops) - Front -R %% 1/8 %% 1/8 %% --3/8 %% -1/8 %% 1 1/2 %% 1/4 %% 1/8 %%  %%  %%  %%  %%  %%  %% 
